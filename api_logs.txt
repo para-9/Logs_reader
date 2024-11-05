@@ -1,0 +1,13 @@
+2023-09-21 12:45:56 - /api/resource - 200 - OK - 150ms
+2023-09-21 12:46:01 - /api/resource - 500 - Internal Server Error - 300ms
+2023-09-21 12:46:05 - /api/resource - 404 - Not Found - 120ms
+2023-09-21 12:46:10 - /api/resource - 200 - OK - 95ms
+2023-09-21 12:46:15 - /api/resource - 200 - OK - 110ms
+2023-09-21 12:46:20 - /api/resource - 401 - Unauthorized - 145ms
+2023-09-21 12:46:25 - /api/resource - 200 - OK - 130ms
+2023-09-21 12:46:30 - /api/resource - 503 - Service Unavailable - 400ms
+2023-09-21 12:46:35 - /api/resource - 200 - OK - 80ms
+2023-09-21 12:46:40 - /api/resource - 403 - Forbidden - 210ms
+2023-09-21 12:46:45 - /api/resource - 200 - OK - 100ms
+2023-09-21 12:46:50 - /api/resource - 500 - Internal Server Error - 350ms
+2023-09-21 12:46:55 - /api/resource - 200 - OK - 140ms
